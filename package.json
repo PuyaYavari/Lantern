@@ -1,5 +1,5 @@
 {
-  "name": "@puyayavari/Lantern",
+  "name": "@puyayavari/lantern",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -15,11 +15,16 @@
   "license": "ISC",
   "devDependencies": {
     "@types/debug": "^4.1.7",
+    "@types/jest": "^28.1.4",
     "@types/node": "^18.0.0",
+    "ts-jest": "^28.0.4",
+    "ts-node": "^10.5.0",
+    "ts-standard": "^11.0.0",
     "typescript": "^4.7.4"
   },
   "dependencies": {
     "debug": "^4.3.4",
+    "jest": "^28.1.2",
     "nodemon": "^2.0.16"
   }
 }
