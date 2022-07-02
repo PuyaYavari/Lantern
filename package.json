@@ -25,6 +25,7 @@
   "dependencies": {
     "debug": "^4.3.4",
     "jest": "^28.1.2",
-    "nodemon": "^2.0.16"
+    "nodemon": "^2.0.16",
+    "winston": "^3.8.1"
   }
 }
